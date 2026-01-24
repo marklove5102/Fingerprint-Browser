@@ -15,7 +15,6 @@
 
 
 ### 支持的指纹和功能
-
 - User Agent
 - 语言
 - 时区
@@ -55,13 +54,14 @@
 - 网站账号密码填充
 - 用户数据同步
 - 增加JS自定义函数响应（控制进程、关机、读写数据等）
+- windows Android 仿真,webgpu 各种属性指纹等等
 
 
 ## 使用说明
 
 为了让更多开发者能够受益并参与到Chromium内核的改进与开发中，我决定将指纹浏览器客户端免费提供给所有用户使用。您可以自由下载。
 
-通过网盘分享的文件: https://pan.baidu.com/s/1wx_vDuLQyhEBLoIXbCcyXA 提取码: rnhb
+https://www.dsparkmedia.com/dserver/data/browser_20260112.zip  
 
 如果您在使用过程中遇到问题或需要技术支持，欢迎随时联系我。同时对于更深入的技术咨询和定制化开发服务，您可以选择付费咨询。
 
